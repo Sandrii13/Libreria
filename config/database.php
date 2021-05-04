@@ -15,7 +15,7 @@ return [
     |
     */
 
-    'default' => env('DB_CONNECTION', 'pgsql'),
+    'default' => env('DB_CONNECTION', 'mysql'),
 
     /*
     |--------------------------------------------------------------------------
@@ -71,7 +71,7 @@ return [
             'database' => env('DB_DATABASE', 'd1d36r6trllfb1'),
             'username' => env('DB_USERNAME', 'sbdtduniozwuwf'),
             'password' => env('DB_PASSWORD', 'b24962ac2cd6aaf247d3cd75318988853ce4497b00e217d9063021b0bd8a1f4a'),
-            'charset' => 'utf8mb4',
+            'charset' => 'utf8',
             'prefix' => '',
             'prefix_indexes' => true,
             'schema' => 'public',
