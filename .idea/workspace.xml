@@ -132,6 +132,7 @@
       <path value="$PROJECT_DIR$/vendor/phpseclib/phpseclib" />
       <path value="$PROJECT_DIR$/vendor/firebase/php-jwt" />
       <path value="$PROJECT_DIR$/vendor/laravel/passport" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
     </include_path>
   </component>
   <component name="ProjectId" id="1s4cSmugU40F1Z2AkJFOCzzlw3a" />
@@ -160,7 +161,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620135304973</updated>
-      <workItem from="1620135306075" duration="11988000" />
+      <workItem from="1620135306075" duration="15804000" />
     </task>
     <servers />
   </component>
